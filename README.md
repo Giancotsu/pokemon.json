@@ -1,3 +1,5 @@
+[Home Page](https://giancotsu.github.io/pokemon.json/)
+
 # Pokemon.json
 
 This repository provides a basic dataset of all Pokemons.
